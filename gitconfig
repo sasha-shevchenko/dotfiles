@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sasha.shevchenko.dk@gmail.com
+	name = Sasha Shevchenko
